@@ -12,6 +12,7 @@ public class deptExample {
 
     public deptExample() {
         oredCriteria = new ArrayList<Criteria>();
+        system.out.println("hahahahahahhahaha.....................................................................");
     }
 
     public void setOrderByClause(String orderByClause) {
